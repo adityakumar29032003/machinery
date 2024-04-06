@@ -1,0 +1,15 @@
+{
+    "name": "machinery mart",
+    "description": "Digitize ownership of your machinery with NFTs: Proof of ownership guaranteed.",
+    "image": "image url",
+    "attributes": [
+        {
+            "trait_type": "MMT1",
+            "value": "10000uandr"
+        },
+        {
+            "trait_type": "machinery mart",
+            "value": "for small startup"
+        }
+    ]
+}
